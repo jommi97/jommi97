@@ -77,7 +77,7 @@ Currently
 <br/>
 <br/>
 Workshop
-<p> <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,figma,vercel,supabase,git,vscode&theme=dark" alt="stack" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,figma,vercel,supabase,git,vscode&theme=light" alt="stack" /> </p>
 <sub>Tools, not trophies. The list grows quietly.</sub>
 
 <br/>
