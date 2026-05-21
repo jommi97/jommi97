@@ -34,5 +34,9 @@ jobs:
           git add profile-summary-card-output/
           if ! git diff --staged --quiet; then
             git commit -m "chore: refresh profile summary cards"
-            git push
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
