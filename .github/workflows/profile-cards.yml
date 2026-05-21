@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/profile-cards.yml
 
 jobs:
   build:
@@ -20,3 +25,14 @@ jobs:
         with:
           USERNAME: jommi97
           UTC_OFFSET: 0
+          AUTO_PUSH: false
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh profile summary cards"
+            git push
+          fi
