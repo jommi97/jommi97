@@ -216,11 +216,11 @@ Rebuilt the digital presence of an energy startup. Landing page, SaaS platform a
 </td>
 <td width="50%" valign="top">
 
-**O Alquimista**
+**[O Alquimista](https://github.com/jommiguel/O-Alquimista)**
 
-An artisanal coffee shop. As a laboratory. Where each person creates their own blend. Immersive design reflecting the process.
+A premium coffee ritual experience. An artisanal shop as a laboratory, where each person creates their own blend. Immersive design, hand-crafted without frameworks.
 
-<sub>Next.js · Framer Motion · GSAP</sub>
+<sub>HTML · CSS · Vanilla JavaScript</sub>
 
 </td>
 </tr>
