@@ -1,227 +1,271 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=A3A3A3&center=true&vCenter=true&width=540&lines=Designing+at+the+edge+of+code.;Building+products+that+feel+intentional.;Currently+exploring+Product+Engineering." alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1c5b40&height=140&section=header&text=&fontSize=0" alt="header" />
 
 <br/>
 
-### João Miguel Martins
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=34D399&center=true&vCenter=true&width=620&lines=Designing+at+the+edge+of+code.;Building+products+that+feel+intentional.;Spacing.+Latency.+The+second+click.;Currently+exploring+Product+Engineering." alt="typing" />
+
+<br/>
+
+### João Miguel Martins <img src="./assets/orb.svg" width="14" height="14" align="center" />
 
 <sub>Developer at Ecost.ai &nbsp;·&nbsp; Lisbon, Portugal</sub>
 
+<br/>
+
+<a href="https://joaomiguelmartins.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=34D399" /></a>
+<a href="mailto:jommiguel97@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=34D399" /></a>
+<a href="https://linkedin.com/in/jomiguel"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=34D399" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jommiguel&style=flat&label=visitors&color=0a0a0a&labelColor=0a0a0a" alt="visitors" />
+
 </div>
 
-<br/>
-
----
-
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
+<sub><code>// intro</code></sub>
+
 ### A quiet introduction
 
-I build digital products.  
-Not for the hype. For the craft.
+I build digital products. Not for the hype. For the craft.
 
-I care about the small things —  
-the spacing, the latency, the second click.
+I care about the small things. The spacing, the latency, the second click.
 
-Lately, I'm spending most of my time at the intersection of **product, design and engineering**.  
-That space has a name now. *Product Engineer.*
+Lately, I'm spending most of my time at the intersection of **product, design and engineering**. That space has a name now. *Product Engineer.*
 
 </td>
 <td width="45%" valign="top">
 
-> *"Software is a medium.  
-> Like paper. Like clay.  
-> What matters is what you make with it."*
-
 <br/>
 
 ```ts
 const me = {
-	role:   "Developer → Product Engineer",
-	at:     "Ecost.ai",
-	focus:  ["UX", "Frontend", "AI workflows"],
-	stack:  "React · Next.js · TypeScript",
-	values: ["Clarity", "Craft", "Curiosity"],
+  role:   "Developer → Product Engineer",
+  at:     "Ecost.ai",
+  focus:  ["UX", "Frontend", "AI workflows"],
+  stack:  "React · Next.js · TypeScript",
+  values: ["Clarity", "Craft", "Curiosity"],
 };
 ```
-</td> </tr> </table> <br/>
-<br/>
-Philosophy
-<table> <tr> <td width="33%" valign="top">
-Problems before pixels.
-
-I want to understand why before I design what.
-
-</td> <td width="33%" valign="top">
-Details are not optional.
-
-Polish is where trust quietly lives.
-
-</td> <td width="33%" valign="top">
-Build, then refine.
-
-Ship something honest. Improve it tomorrow.
-
-</td> </tr> </table> <br/>
-<br/>
-Currently
-
-→  Building the frontend & design system at Ecost.ai
-→  Deepening React, Next.js and TypeScript
-→  Exploring AI as a daily creative collaborator
-→  Sketching small products that solve real problems
-<br/>
-<br/>
-Workshop
-<p> <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,figma,vercel,supabase,git,vscode&theme=light" alt="stack" /> </p>
-<sub>Tools, not trophies. The list grows quietly.</sub>
-
-<br/>
-<br/>
-Signals
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=jommiguel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3&icon_color=E5E5E5" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jommiguel&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jommiguel&bg_color=00000000&color=E5E5E5&line=A3A3A3&point=FFFFFF&hide_border=true&area=true&custom_title=Building%2C%20quietly" /> </p> <br/>
-<br/>
-Selected work
-<table> <tr> <td width="50%" valign="top">
-Ecost
-Rebuilt the digital presence of an energy startup.
-
-Landing page, SaaS platform and design system —
-
-built from scratch with Storybook.
-
-<sub>Next.js · TypeScript · Tailwind · Framer Motion</sub>
-
-</td> <td width="50%" valign="top">
-O Alquimista
-An artisanal coffee shop. As a laboratory.
-
-Where each person creates their own blend.
-
-Immersive design reflecting the process.
-
-<sub>Next.js · Framer Motion · GSAP</sub>
-
-</td> </tr> <tr> <td width="50%" valign="top">
-My Savings <sub>· in progress</sub>
-Personal finance, quietly designed.
-
-Track savings, set goals, see progress.
-
-Clean. Intuitive. Honest.
-
-<sub>React · TypeScript · Tailwind</sub>
-
-</td> <td width="50%" valign="top">
-ReStart Path <sub>· soon</sub>
-A second chance, designed with intention.
-
-A platform for people in career transition —
-
-resources, roadmaps, real stories.
-
-<sub>Next.js · TypeScript · Supabase</sub>
-
-</td> </tr> </table> <br/>
-<br/>
-Building now
-<table> <tr> <td>
-
-+ Shipping the design system & frontend at Ecost.ai
-+ Refining my portfolio at joaomiguelmartins.com
-+ Prototyping AI-assisted product workflows
-+ Reading more, scrolling less
-~ Learning to ship before it feels ready
-</td> </tr> </table> <br/>
-<br/> <div align="center">
-Say hello
-<sub>I read everything. I reply slowly. I mean it when I do.</sub>
-
-<br/>
-<a href="https://joaomiguelmartins.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E5E5E5" /></a>
-<a href="mailto:jommiguel97@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=E5E5E5" /></a>
-<a href="https://linkedin.com/in/jomiguel"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E5E5E5" /></a>
-
-<br/><br/>
-
-<sub><i>Thanks for stopping by.<br/>Now go build something you'd be proud to show a stranger.</i></sub>
-
-</div>
----
-
-### A quiet introduction
-
-I build digital products. Not for the hype — for the craft.
-
-I care about the small things: the spacing, the latency, the second click.
-
-Lately I'm working at the intersection of **product, design and engineering** — Product Engineering.
 
 > *"Software is a medium. Like paper. Like clay. What matters is what you make with it."*
 
-```ts
-const me = {
-	role:  "Developer → Product Engineer",
-	at:    "Ecost.ai",
-	focus: ["UX", "Frontend", "AI workflows"],
-	stack: "React · Next.js · TypeScript",
-	values:["Clarity", "Craft", "Curiosity"],
-};
-```
+</td>
+</tr>
+</table>
 
-### Philosophy
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-- Problems before pixels — understand why before designing what.
-- Details are not optional — polish is where trust lives.
-- Build, then refine — ship honest work and improve it tomorrow.
+<sub><code>// philosophy</code></sub>
 
-### Currently
+### Three quiet rules
 
-- Building the frontend & design system at Ecost.ai
-- Deepening React, Next.js and TypeScript
-- Exploring AI as a daily creative collaborator
-- Sketching small, useful products
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Problems before pixels**
+
+Understand *why* before deciding *what*.
+
+</td>
+<td width="33%" valign="top">
+
+**Details are not optional**
+
+Polish is where trust quietly lives.
+
+</td>
+<td width="33%" valign="top">
+
+**Build, then refine**
+
+Ship something honest. Improve it tomorrow.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub><code>// stack</code></sub>
 
 ### Workshop
 
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,figma,vercel,supabase,git,vscode&theme=light" alt="stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,figma,supabase,postgres,vercel,git,vscode&theme=light" alt="stack" />
 </p>
 
-### Signals
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<p align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=jommiguel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3&icon_color=E5E5E5" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jommiguel&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3" />
+<sub><b>Frontend</b></sub>
+
+<sub>React · Next.js</sub><br/>
+<sub>TypeScript</sub><br/>
+<sub>Tailwind CSS</sub><br/>
+<sub>Framer Motion · GSAP</sub>
+
+</td>
+<td valign="top" width="25%">
+
+<sub><b>Tools</b></sub>
+
+<sub>Vite · Storybook</sub><br/>
+<sub>Git · GitHub</sub><br/>
+<sub>Vercel</sub><br/>
+<sub>VS Code</sub>
+
+</td>
+<td valign="top" width="25%">
+
+<sub><b>Design</b></sub>
+
+<sub>Figma</sub><br/>
+<sub>shadcn/ui</sub><br/>
+<sub>Design systems</sub><br/>
+<sub>Storybook</sub>
+
+</td>
+<td valign="top" width="25%">
+
+<sub><b>Backend</b></sub>
+
+<sub>Node.js</sub><br/>
+<sub>Supabase</sub><br/>
+<sub>PostgreSQL</sub><br/>
+<sub>REST APIs</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Tools, not trophies. The list grows quietly.</sub>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub><code>// signals</code></sub>
+
+### Building, quietly
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jommiguel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=00000000&title_color=34D399&text_color=A3A3A3&icon_color=34D399&ring_color=34D399" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jommiguel&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=34D399&text_color=A3A3A3" />
 </p>
 
-### Contributions
-
-<!-- a slightly more 'animated' contributions heatmap -->
-<p align="center">
-	<img src="https://ghchart.rshah.org/jommiguel" alt="Contributions chart" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jommiguel&hide_border=true&background=00000000&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=A3A3A3&dates=A3A3A3&currStreakNum=E5E5E5&sideNums=E5E5E5" height="165" />
 </p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jommiguel&bg_color=00000000&color=34D399&line=34D399&point=E5E5E5&hide_border=true&area=true&area_color=34D399&custom_title=A%20quiet%20year%20of%20commits" />
+</p>
+
+<sub><code>// snake</code></sub>
+
+### The garden, eaten kindly
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake-dark.svg" />
+</picture>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub><code>// selected work</code></sub>
 
 ### Selected work
 
-- **Ecost** — Rebuilt the digital presence of an energy startup. Next.js · TypeScript · Tailwind · Framer Motion
-- **O Alquimista** — Artisanal coffee shop — immersive design. Next.js · Framer Motion · GSAP
-- **My Savings** (in progress) — Personal finance app. React · TypeScript · Tailwind
-- **ReStart Path** (soon) — Platform for career transitions. Next.js · TypeScript · Supabase
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Ecost** <img src="./assets/orb.svg" width="10" height="10" align="center" />
+
+Rebuilt the digital presence of an energy startup. Landing page, SaaS platform and design system, built from scratch with Storybook.
+
+<sub>Next.js · TypeScript · Tailwind · Framer Motion</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**O Alquimista**
+
+An artisanal coffee shop. As a laboratory. Where each person creates their own blend. Immersive design reflecting the process.
+
+<sub>Next.js · Framer Motion · GSAP</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**My Savings** <sub><i>in progress</i></sub>
+
+Personal finance, quietly designed. Track savings, set goals, see progress. Clean. Intuitive. Honest.
+
+<sub>React · TypeScript · Tailwind</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**ReStart Path** <sub><i>soon</i></sub>
+
+A second chance, designed with intention. A platform for people in career transition. Resources, roadmaps, real stories.
+
+<sub>Next.js · TypeScript · Supabase</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub><code>// now</code></sub>
+
+### Building now
+
+```bash
+$ now --user jommiguel
+> shipping the design system and frontend at Ecost.ai
+> refining my portfolio at joaomiguelmartins.com
+> prototyping AI-assisted product workflows
+> reading more, scrolling less
+> learning to ship before it feels ready
+> _
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<sub><code>// contact</code></sub>
 
 ### Say hello
 
-<p align="center">
-	<a href="https://joaomiguelmartins.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E5E5E5" /></a>
-	<a href="mailto:jommiguel97@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=E5E5E5" /></a>
-	<a href="https://linkedin.com/in/jomiguel"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E5E5E5" /></a>
-</p>
+<sub>I read everything. I reply slowly. I mean it when I do.</sub>
 
-> Thanks for stopping by. Now go build something you'd be proud to show a stranger.
+<br/>
 
+<a href="https://joaomiguelmartins.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=34D399" /></a>
+<a href="mailto:jommiguel97@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=34D399" /></a>
+<a href="https://linkedin.com/in/jomiguel"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=34D399" /></a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=A3A3A3&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Now+go+build+something+you'd+be+proud+to+show+a+stranger." alt="closing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c5b40,100:0a0a0a&height=110&section=footer" alt="footer" />
+
+</div>
